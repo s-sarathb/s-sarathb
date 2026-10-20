@@ -2,6 +2,12 @@
   <img src="avatar.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover;" alt="Sarath" />
   <h1>Sarath</h1>
   <p><strong>systems • android internals • reverse engineering</strong></p>
+  <p>
+    <a href="https://saisarath.com"><code>saisarath.com</code></a> •
+    <a href="https://x.com/saisarathbb"><code>@saisarathbb</code></a> •
+    <a href="https://telegram.me/saisarath"><code>telegram</code></a> •
+    <a href="mailto:hello@saisarath.com"><code>hello@saisarath.com</code></a>
+  </p>
 </div>
 
 ---
@@ -30,5 +36,5 @@ Internals  : ADB, Binder IPC, SELinux, Kernel Exploits
 ---
 
 <p align="center">
-  <sub>Minimal by design.</sub>
+  <sub><a href="https://saisarath.com">saisarath.com</a> • Minimal by design.</sub>
 </p>
