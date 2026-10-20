@@ -1,40 +1,36 @@
 <div align="center">
-  <img src="avatar.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover;" alt="Sarath" />
-  <h1>Sarath</h1>
-  <p><strong>systems • android internals • reverse engineering</strong></p>
+  <img src="avatar.jpg" width="125" height="125" style="border-radius: 50%; object-fit: cover;" alt="Saisarath" />
+  <h1>Saisarath</h1>
+  <p>17-year-old tech enthusiast & student • building projects & exploring systems</p>
   <p>
-    <a href="https://saisarath.com"><code>saisarath.com</code></a> •
-    <a href="https://x.com/saisarathbb"><code>@saisarathbb</code></a> •
-    <a href="https://telegram.me/saisarath"><code>telegram</code></a> •
-    <a href="mailto:hello@saisarath.com"><code>hello@saisarath.com</code></a>
+    <a href="https://saisarath.com"><strong>saisarath.com</strong></a> •
+    <a href="https://x.com/saisarathbb"><strong>Twitter / X</strong></a> •
+    <a href="https://telegram.me/saisarath"><strong>Telegram</strong></a> •
+    <a href="mailto:hello@saisarath.com"><strong>hello@saisarath.com</strong></a>
   </p>
 </div>
 
 ---
 
-### Focus
+### About Me
 
-Building minimal, performance-critical tools across Android system internals, embedded hardware, and television platforms. Focused on zero-latency launcher architectures, SELinux policies, and DRM security bypasses.
+Hi! I'm a 17-year-old tech enthusiast and student. I enjoy exploring technology with tech stuff, building small projects, investigating software architecture, mental models, and physics problems, and listening to music in my free time.
 
 ---
 
-### Featured Project
+### Projects & Explorations
 
 - **[firetv-clean-root](https://github.com/s-sarathb/firetv-clean-root)**  
-  Native launcher replacement, bloatware disablement, and in-memory root toolkit for Amazon Fire TV (Fire OS 7). Integrates GhostLock kernel root for 0 ms Home handover, settings intent routing fixes, and complete privacy sanitization.
+  Native launcher replacement, system debloat, and in-memory root toolkit for Amazon Fire TV (Fire OS 7). 0 ms Home button latency via GhostLock kernel root exploit, settings intent routing fixes, and complete privacy sanitization.
 
----
+- **[saisarath.com](https://saisarath.com)**  
+  Personal space for interactive experiments, canvas animations, notes, and technical investigations.
 
-### Tech & Tooling
-
-```
-Platforms  : Android TV, Fire OS, Linux
-Languages  : Java, Shell, Python, Smali
-Internals  : ADB, Binder IPC, SELinux, Kernel Exploits
-```
+- **Systems & Hardware**  
+  Android internals, low-level tooling, SELinux policies, and embedded device customization.
 
 ---
 
 <p align="center">
-  <sub><a href="https://saisarath.com">saisarath.com</a> • Minimal by design.</sub>
+  <sub>Find more at <a href="https://saisarath.com">saisarath.com</a></sub>
 </p>
