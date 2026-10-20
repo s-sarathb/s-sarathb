@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="avatar.jpg" width="125" height="125" style="border-radius: 50%; object-fit: cover;" alt="Saisarath" />
+  <img src="avatar.png" width="125" height="125" alt="Saisarath" />
   <h1>Saisarath</h1>
   <p>17-year-old tech enthusiast & student • building projects & exploring systems</p>
   <p>
@@ -25,9 +25,6 @@ Hi! I'm a 17-year-old tech enthusiast and student. I enjoy exploring technology 
 
 - **[saisarath.com](https://saisarath.com)**  
   Personal space for interactive experiments, canvas animations, notes, and technical investigations.
-
-- **Systems & Hardware**  
-  Android internals, low-level tooling, SELinux policies, and embedded device customization.
 
 ---
 
