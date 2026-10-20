@@ -19,11 +19,8 @@ Hi! I'm a 17-year-old tech enthusiast and student. I enjoy exploring technology 
 
 ### Projects & Explorations
 
-- **[firetv-clean-root](https://github.com/s-sarathb/firetv-clean-root)**  
+- **[firetv-clean-root](https://github.com/saisarathbb/firetv-clean-root)**  
   Native launcher replacement, system debloat, and in-memory root toolkit for Amazon Fire TV (Fire OS 7). 0 ms Home button latency via GhostLock kernel root exploit, settings intent routing fixes, and complete privacy sanitization.
-
-- **[saisarath.com](https://saisarath.com)**  
-  Personal space for interactive experiments, canvas animations, notes, and technical investigations.
 
 ---
 
