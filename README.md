@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="avatar.png" width="125" height="125" alt="Saisarath" />
   <h1>Saisarath</h1>
   <p>17-year-old tech enthusiast & student • building projects & exploring systems</p>
   <p>
